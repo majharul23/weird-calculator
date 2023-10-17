@@ -13,12 +13,12 @@ try
             if (input == 1) {
                 Addition addition = new Addition();
             } else if (input == 2) {
-                Division division = new Division();
+             Subtraction subtraction = new Subtraction();
 
             }  if (input == 3) {
                 Multiplication multiplication = new Multiplication();
             } else {
-                Subtraction subtraction = new Subtraction();
+               Division division = new Division();
             }
 
 
